@@ -1,0 +1,98 @@
+﻿:: StoryTitle
+Untitled Story
+
+
+:: hugo 03
+Hugo: Você vai ficar por aqui mais um pouco, né? 
+
+Porque eu e mamãe tinhamos planejado almoçar daqui a pouco, e ela queria que todo mundo fosse junto.
+
+OL: Sim Hugo, não preocupa. Eu encontro com sua mãe e nós vamos pro restaurante, tá bom?
+
+Hugo. Tá bom então, até mais tarde.
+
+
+:: hugo 02
+OL: Eu não sabia que você entendia tanto sobre navios assim.
+
+Hugo: Não, nem entendo não, mãe... 
+
+Isso aí é coisa do Gabriel, foi ele que me contou. Seu neto é muito inteligente.
+
+Hugo: E falando nisso, você viu ele por aí? 
+
+Ele sumiu depois do café da manhã, e tá quase na hora do remédio dele, não sei se ele lembrou.
+
+Eu devia ir atrás dele...
+
+[[Bom, pode ir.|hugo 03]]
+[[Deixa que eu vou.|hugo 04]]
+
+
+:: StoryAuthor
+Anonymous
+
+
+:: hugo 04
+Hugo: Bem, então toma o aqui o remédio.
+
+Hugo: E quando você achar ele, lembra que a gente vai almoçar daqui a pouco, mamãe que disse.
+
+OL: Sim, tudo bem.
+
+
+:: Start
+Hugo: E então Mãe, o que a senhora achou? O navio é muito bonito, né?
+
+OL: É... é bonitinho sim.
+
+Hugo: Sabia que ele é um dos 4 navios de cruzeiro a dar uma volta completa no mundo de uma vez só? 
+
+E que ele também o deck de observação mais logo entre os navios antigos, da classe D277?
+
+[[Hm, interessante...|hugo 01]]
+[[como você sabe disso?|hugo 02]]
+
+
+
+
+:: hugo 05
+
+
+OL:Eu acho que eles fecharam a piscina, teve um alerta de mau tempo ou algo assim.
+
+Hugo: Mau tempo? Mas o céu tá azulzinho, não tem nenhuma nuvem! Não é possível!
+
+Hugo: Eu preciso descobrir o quê que tá acontecendo.
+
+OL: Eu posso procurar o rapaz que me disse isso, ele deve estar no pátio central ainda.
+
+Hugo: Não mãe, pode deixar que eu vou resolver isso!
+
+
+
+
+:: hugo 01
+Hugo: E que ele também é um dos poucos que mantém a maior parte da tripulação no mesmo navio por... 
+
+Hugo: Você não quer saber, né?
+
+OL: Hm, pode continuar, não tem problema.
+
+Hugo: Não, pode deixar. Desculpa se eu tava te incomodando.
+
+Hugo: Bem, eu vou subir pras piscinas agora, você quer ir comigo?
+
+[[Agora não dá.|hugo 05]]
+[[Sim, vamos!|hugo 06]]
+
+
+
+:: hugo 06
+Hugo: Você viu um mapa por aí? Eu ainda tô meio perdido aqui dentro, esse navio é muito grande!
+
+OL: Não, mas eu sei pra onde a gente tem que ir.
+
+OL: Eu acho.
+
+
