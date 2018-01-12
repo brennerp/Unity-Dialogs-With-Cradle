@@ -5,9 +5,6 @@ using UnityEngine.UI;
 using Cradle;
 using Cradle.StoryFormats.Sugar;
 
-///Old Lady Game Project
-///Written by Brenner Pacelli on October 25th, 2017
-///Last updated on December 14th, 2017
 ///DialogOptionGroup manages all DialogOption scripts
 
 namespace DialogSystem {
