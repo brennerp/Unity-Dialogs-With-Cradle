@@ -4,6 +4,9 @@ using UnityEngine;
 using Cradle;
 using Cradle.StoryFormats.Sugar;
 
+///DialogExecution executes all actions in the passage
+///It has all possible special actions incripted and coordinates the DialogBox and the DialogOptionGroup
+
 namespace DialogSystem {
 	[RequireComponent(typeof(DialogManager))]
 	public class DialogExecutioner : MonoBehaviour {
