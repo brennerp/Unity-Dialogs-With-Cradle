@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-///Written by Brenner Pacelli on November 7th, 2017
-///Last updated on December 14th, 2017
 ///Generic Game base-script. It will be updated later to carry important variables and manage saves.
 
 public class Game {
