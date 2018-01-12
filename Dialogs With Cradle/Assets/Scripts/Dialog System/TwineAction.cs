@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-///Written by Brenner Pacelli on November 20th, 2017
 ///TwineAction is a class to separate Twine strings into Commands and Parameters
 
 namespace DialogSystem {
