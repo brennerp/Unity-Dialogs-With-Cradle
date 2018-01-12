@@ -5,9 +5,6 @@ using UnityEngine.UI;
 using Cradle;
 using Cradle.StoryFormats.Sugar;
 
-///Old Lady Game Project
-///Written by Brenner Pacelli on October 24th, 2017
-///Last updated on December 6th, 2017
 ///DialogManager receives the call for a dialog start with a Cradle story
 ///Then, it waits for each passage of the story, reads and sends each line as an action to the DialogExecutioner
 ///It also reads special actions inside brackets ('<' and '>')
