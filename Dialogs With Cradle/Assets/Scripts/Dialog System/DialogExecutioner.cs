@@ -4,12 +4,6 @@ using UnityEngine;
 using Cradle;
 using Cradle.StoryFormats.Sugar;
 
-///Old Lady Game Project
-///Written by Brenner Pacelli on December 6th, 2017
-///Last updated on December 14th, 2017
-///DialogExecution executes all actions in the passage
-///It has all possible special actions incripted and coordinates the DialogBox and the DialogOptionGroup
-
 namespace DialogSystem {
 	[RequireComponent(typeof(DialogManager))]
 	public class DialogExecutioner : MonoBehaviour {
