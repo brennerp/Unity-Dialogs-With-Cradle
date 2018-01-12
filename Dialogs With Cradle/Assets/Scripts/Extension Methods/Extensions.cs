@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-///Written by Brenner Pacelli on October 20th, 2017
-///Last updated on December 14th, 2017
 ///Script for writing any useful Extension Methods
  
 public static class ExtensionMethods {
