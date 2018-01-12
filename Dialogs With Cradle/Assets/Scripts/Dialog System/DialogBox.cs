@@ -5,11 +5,6 @@ using UnityEngine.UI;
 using Cradle;
 using Cradle.StoryFormats.Sugar;
 
-///Old Lady Game Project
-///Written by Brenner Pacelli on October 25th, 2017
-///Last updated on December 14th, 2017
-///DialogBox manages the display of character lines
-
 namespace DialogSystem {
 	[RequireComponent(typeof(RectTransform))]
 	[RequireComponent(typeof(Button))]
